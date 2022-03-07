@@ -42,3 +42,24 @@
   font-size:300%;
   font-family:verdana;
 }
+
+#titulocarrito {
+  text-align: center;
+  font-size:300%;
+  font-family:verdana;
+
+}
+
+#gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.greeting {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
